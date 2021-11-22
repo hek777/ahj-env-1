@@ -31,7 +31,6 @@
     "eslint-plugin-import": "^2.22.1",
     "html-loader": "^1.3.2",
     "html-webpack-plugin": "^5.5.0",
-    "jest": "^27.3.1",
     "live-server": "^1.2.1",
     "mini-css-extract-plugin": "^1.3.3",
     "optimize-css-assets-webpack-plugin": "^6.0.1",
@@ -42,5 +41,6 @@
     "webpack-dev-server": "^4.5.0",
     "webpack-merge": "^5.8.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": "https://github.com/hek777/ahj-env-1.git"
 }
